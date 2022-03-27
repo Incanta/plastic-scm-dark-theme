@@ -4,6 +4,10 @@ This is a prototype theme that is actually dark (and not just the side/top bars)
 
 **NOTE:** This is not a complete theme. It only provides bits and pieces here to make my eyes not burn, and only covers my use cases. Want to contribute more languages? **PRs are more than welcome.**
 
+## ⚠️Archived
+
+This repository is archived due to the new PlasticX GUI having a proper dark mode built in. Please use that GUI instead.
+
 ## Installation
 
 ### Base Theme
